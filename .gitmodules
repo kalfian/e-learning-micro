@@ -1,3 +1,0 @@
-[submodule "api-gateway"]
-	path = api-gateway
-	url = ./api-gateway
