@@ -1,3 +1,6 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = https://github.com/kalfian/e-learning-gateway.git
+[submodule "media-service"]
+	path = media-service
+	url = https://github.com/kalfian/e-learning-media.git
