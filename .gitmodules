@@ -4,3 +4,6 @@
 [submodule "media-service"]
 	path = media-service
 	url = https://github.com/kalfian/e-learning-media.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/kalfian/e-learning-user.git
